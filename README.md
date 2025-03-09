@@ -27,13 +27,13 @@ Este projeto tem como objetivo fornecer informações detalhadas sobre o contine
 ### **Ranking de Médias Salariais em TI**
 - Ranking dos países com as maiores médias salariais em Tecnologia da Informação (TI), com base nos dados fornecidos.
 
-### **Tecnologias Utilizadas**
+## **Tecnologias Utilizadas**
 * Front-end:
   - HTML5
   - CSS3 
 
 
-### **Ferramentas de Desenvolvimento:**
+## **Ferramentas de Desenvolvimento:**
   - Git e GitHub 
   - Visual Studio Code 
 
@@ -90,10 +90,7 @@ git commit -m "Adiciona página inicial com boas-vindas"
 └── README.md               # Documentação do projeto
 ```   
 
-## **Licença**
-Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT). 
 
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## **Contato**
 Em caso de dúvidas ou sugestões, entre em contato:
@@ -102,4 +99,15 @@ Em caso de dúvidas ou sugestões, entre em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielavelteredu/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Daniela2319)
+
+## **Licença**
+<p align="center">Este projeto está sob a licença <a href="https://opensource.org/licenses/MIT">MIT</a> </p>
+
+<div align="center">
+  
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+</div>
+
+ 
 
