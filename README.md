@@ -1,5 +1,5 @@
 
- # Projeto atv0006
+
 ### Projeto: Informações sobre o Continente Americano
 
 Este projeto tem como objetivo fornecer informações detalhadas sobre o continente americano, incluindo dados populacionais, indicadores socioeconômicos e rankings relacionados a países e cidades. O sistema é composto por uma página inicial e quatro páginas adicionais, cada uma com um foco específico.
@@ -27,13 +27,13 @@ Este projeto tem como objetivo fornecer informações detalhadas sobre o contine
 ### **Ranking de Médias Salariais em TI**
 - Ranking dos países com as maiores médias salariais em Tecnologia da Informação (TI), com base nos dados fornecidos.
 
-### **Tecnologias Utilizadas**
+## **Tecnologias Utilizadas**
 * Front-end:
   - HTML5
   - CSS3 
 
 
-### **Ferramentas de Desenvolvimento:**
+## **Ferramentas de Desenvolvimento:**
   - Git e GitHub 
   - Visual Studio Code 
 
