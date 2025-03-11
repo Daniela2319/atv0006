@@ -90,10 +90,7 @@ git commit -m "Adiciona página inicial com boas-vindas"
 └── README.md               # Documentação do projeto
 ```   
 
-## **Licença**
-Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT). 
 
-![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## **Contato**
 Em caso de dúvidas ou sugestões, entre em contato:
@@ -102,4 +99,15 @@ Em caso de dúvidas ou sugestões, entre em contato:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/danielavelteredu/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Daniela2319)
+
+## **Licença**
+<p align="center">Este projeto está sob a licença <a href="https://opensource.org/licenses/MIT">MIT</a> </p>
+
+<div align="center">
+  
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+</div>
+
+ 
 
